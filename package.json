@@ -3,12 +3,12 @@
     "displayName": "Name That Color",
     "description": "Get a friendly name from a Hex color representation.",
     "version": "0.1.2",
-    "publisher": "guillaumedoutriaux",
+    "publisher": "renanveroneze",
     "license": "SEE LICENSE IN LICENSE.md",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/guillaumedoutriaux/name-that-color"
+        "url": "https://github.com/renanveroneze/name-that-color/"
     },
     "keywords": [
         "color",
