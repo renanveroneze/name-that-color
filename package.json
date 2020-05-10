@@ -31,6 +31,7 @@
         "onCommand:extension.ntcGet",
         "onCommand:extension.ntcReplace",
         "onCommand:extension.ntcSassVar",
+        "onCommand:extension.ntcStylusVar",
         "onCommand:extension.ntcCssVar"
     ],
     "main": "./out/src/extension",
@@ -47,6 +48,10 @@
             {
                 "command": "extension.ntcSassVar",
                 "title": "Name that color : generate Sass variable"
+            },
+            {
+                "command": "extension.ntcStylusVar",
+                "title": "Name that color : generate Stylus variable"
             },
             {
                 "command": "extension.ntcCssVar",
